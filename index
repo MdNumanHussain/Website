@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+            color: #333;
+        }
+        header, footer {
+            background: #005A9C;
+            color: #fff;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 0 10px;
+            background: white;
+            border: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>My Portfolio</h1>
+        <p>Welcome to my professional portfolio website.</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Describe who you are, your background, and what you do. This is a great place to briefly introduce yourself and your professional capabilities.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <p>List your projects here with a short description or a link to the project. Highlight your best work!</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Information</h2>
+        <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+        <p>LinkedIn: <a href="your-linkedin-url">your-linkedin-url</a></p>
+        <p>GitHub: <a href="your-github-url">your-github-url</a></p>
+    </section>
+
+    <footer>
+        <p>Copyright © 2023. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
